@@ -7,6 +7,8 @@ public class IvanTheKing {
         String k = "kralj";
         // :)
         System.out.println(i+" "+k);
+        
+        // dodao sam ovo ka0
 
     }
 }
